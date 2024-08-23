@@ -11,8 +11,9 @@
 
 ```javascript
 const devi = {
-  about me: "Frontend Web Developer",
-  languages: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+  about me: "Fullstack Web Developer",
+  frontend: ["HTML", "CSS", "JavaScript", "React", "Bootstrap"],
+  backend:["Core Java","Advanced java","SQL"],
   tools: ["Postman", "Visual Studio","Git & Github","Mock Api"],
   knowledges: ["Sass", "Tailwind Css","Figma"]
 }
